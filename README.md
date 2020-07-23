@@ -103,9 +103,9 @@ actor_total['VAR'] = (actor_total['Net Profit']/actor_total['Net Profit'].mean()
 ```
 We follow the same process with directors, except we filter by using 5 or more movies instead of 10.
 
-![visuals/VARActor.png](image placeholder)
+![VARActor](visuals/VARActor.png)
 
-![visuals/VARDirector.png](image placeholder)
+![VARDirector](visuals/VARDirector.png)
 
 
 **Question 4 Conclusion:** We recommend that Microsoft focus their cast and crew search to individuals who consistently score at least 1.0 on the VAR score. We can, with a high level of confidence, conclude that these individuals will elevate the overall production.
